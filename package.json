@@ -1,0 +1,14 @@
+{
+  "name": "fleet-margin-report",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "September fleet margin report: PostgreSQL query and client-side row preparation.",
+  "scripts": {
+    "start": "node src/demo.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
